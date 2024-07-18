@@ -1,0 +1,61 @@
+/* slide */
+
+#slide {
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 1000px;
+    height: 450px;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 30%);
+    transition: 0.5s;
+}
+
+.slide1 {
+    background: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg") no-repeat center center;
+    background-size: cover;
+    
+}
+
+.slide2 {
+    background: url("https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.slide3 {
+    background: url("https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+/* buttons */
+
+.button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0.3s;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    place-items: center;
+}
+
+.button:hover {
+    background-color: rgb(12, 12, 12);
+}
+
+#btnL {
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#btnR {
+    left: 100%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
