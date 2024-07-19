@@ -8,7 +8,7 @@ Este é um carrossel simples desenvolvido utilizando HTML, CSS e JavaScript, pro
 
 ## Stack utilizada
 
-**Front-end:** HTML5, CSS3, JavaScript
+**Front-end:** HTML5, CSS3 e JavaScript
 
 ## Funcionalidades
 
