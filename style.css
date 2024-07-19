@@ -1,4 +1,4 @@
-/* slide */
+/* carrossel */
 
 #slide {
     border: 5px solid black;
@@ -28,7 +28,7 @@
     background-size: cover;
 }
 
-/* buttons */
+/* botões */
 
 .button {
     background-color: black;
