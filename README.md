@@ -6,6 +6,10 @@ Este é um carrossel simples desenvolvido utilizando HTML, CSS e JavaScript, pro
 
 ![Demonstração](https://github.com/user-attachments/assets/a77d4b51-b58b-4010-a361-39c34162afcb)
 
+## Acesse o projeto!
+
+Siga o link de deploy do projeto: https://github.com/lucasmri/carrossel
+
 ## Stack utilizada
 
 **Front-end:** HTML5, CSS3 e JavaScript
@@ -50,3 +54,4 @@ Para alterar a duração de exibição das imagens é necessário alterar o arqu
     nCheck = 1;
 }
 ``` 
+
