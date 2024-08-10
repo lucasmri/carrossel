@@ -8,7 +8,8 @@ Este é um carrossel simples desenvolvido utilizando HTML, CSS e JavaScript, pro
 
 ## Acesse o projeto!
 
-Siga o link de deploy do projeto: https://lucasmri.github.io/carrossel/
+Siga o link de deploy do projeto: <a href="https://lucasmri.github.io/carrossel/" target="_blank">Carrossel</a>
+
 
 ## Stack utilizada
 
